@@ -1,6 +1,6 @@
 # Heya * _deer_ * fellower..
 <br>
-> [!NOTE]
+>
 > This is a personal taste. therefore don't pull any requests. not yet at least.
 
 <img src=".cache/preview1.png"/>
